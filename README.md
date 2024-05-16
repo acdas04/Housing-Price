@@ -43,7 +43,7 @@ The final model's predictions are plotted alongside the actual data points. The 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-username>/Housing-Price.git
+    git clone https://github.com/acdas04/Housing-Price.git
     ```
 
 2. Navigate to the project directory:
@@ -60,3 +60,6 @@ The final model's predictions are plotted alongside the actual data points. The 
 
 ## Example
 For a house with a 1200 sqft area, the predicted price is printed and plotted alongside the actual data points.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
